@@ -1,5 +1,3 @@
-# 8_database_schema_fiverr
-
 ## Repository Overview
 This repository contains documentation related to the database schema design for a website named **Fiverr**.
 
